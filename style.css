@@ -1,0 +1,17 @@
+body{
+    width: 1000px;
+    height: 500px;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+
+.git_text{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    cursor: pointer;
+}
